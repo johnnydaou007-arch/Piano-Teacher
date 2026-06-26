@@ -1,6 +1,6 @@
 # Piano-Teacher
-#   LED Piano Teacher
-<img width="1576/2" height="998/2" alt="image" src="https://github.com/user-attachments/assets/d1263339-3fe2-4fa1-ac77-9aac1d352b10" />
+## LED Piano Teacher
+<img width="1576" height="998" alt="image" src="https://github.com/user-attachments/assets/d1263339-3fe2-4fa1-ac77-9aac1d352b10" />
 
 
 ## Overview
